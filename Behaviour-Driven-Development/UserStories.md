@@ -85,7 +85,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * maximum 140 characters
 
-### User Story 7
+### User Story #7
 
 **As** a user
 **I can** retweet the tweets of another user
@@ -95,7 +95,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * a retweet button is below every tweet
 
-### User Story 8
+### User Story #8
 
 **As a** user 
 
@@ -107,7 +107,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * a star appears beneath every tweet
 
-### User Story 9
+### User Story #9
 
 **As a** NAU and as a user
 **I can** search through all tweets on words or hashtags
@@ -117,7 +117,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * only display search results from tweets not older than one week
 
-### User Story 10
+### User Story #10
 
 **As a** user
 
