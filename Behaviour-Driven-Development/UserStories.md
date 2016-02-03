@@ -20,7 +20,6 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **Acceptance Criteria:**
 
- * on all browsers, also mobile
  * at the top there is a «sign up» button
 
 ### User Story #2
@@ -29,14 +28,12 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **I can** sign up and create an account
 
-**so** I can start using twitter
+**so** I can start using TwiTrek
 
 **Acceptance Criteria:**
 
-* no double confirmation via email
 * email address must have the right syntax
 * I must supply name, email and password
-* password must only be typed once
 * username has maximum 15 characters
 
 ### User Story #3
@@ -131,6 +128,3 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 **Acceptance Criteria:**
 
 * both users must follow each other
-
-
-
