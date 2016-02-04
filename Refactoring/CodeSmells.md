@@ -1,4 +1,6 @@
-# Large Class
+# Common Code Smells
+
+## Large Class
 
 ### Signs and Symptoms
 
