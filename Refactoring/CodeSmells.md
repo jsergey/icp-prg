@@ -126,6 +126,7 @@ If you feel that a code fragment cannot be understood without comments, try to c
 * If you need to assert rules about a state that is necessary for the system to work, use Introduce Assertion.
 ### Payoff
 Code becomes more intuitive and obvious.
+
 ### When to Ignore
 Comments can sometimes be useful:
 * When explaining why something is being implemented in a particular way.
