@@ -85,9 +85,11 @@ If the same code is found in two or more methods in the same class: use Extract 
 	* If it is difficult or impossible to create a superclass, use Extract Class in one class and use the new component in the other.
 	* If a large number of conditional expressions are present and perform the same code (differing only in their conditions), merge these operators into a single condition using Consolidate Conditional Expression and use Extract Method to place the condition in a separate method with an easy-to-understand name.
 * If the same code is performed in all branches of a conditional expression: place the identical code outside of the condition tree by using Consolidate Duplicate Conditional Fragments.
+
 ### Payoff
 * Merging duplicate code simplifies the structure of your code and makes it shorter.
 * Simplification + shortness = code that is easier to simplify and cheaper to support.
+
 ### When to Ignore
 In very rare cases, merging two identical fragments of code can make the code less intuitive and obvious.
 
