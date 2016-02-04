@@ -28,7 +28,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 ### User Story #2
 
-**As a ** non authenticated user (NAU)
+**As a** non authenticated user (NAU)
 
 **I can** sign up and create an account
 
