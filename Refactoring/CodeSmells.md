@@ -128,7 +128,5 @@ If you feel that a code fragment cannot be understood without comments, try to c
 Code becomes more intuitive and obvious.
 ### When to Ignore
 Comments can sometimes be useful:
-
 * When explaining why something is being implemented in a particular way.
 * When explaining complex algorithms (when all other methods for simplifying the algorithm have been tried and come up short).
-
