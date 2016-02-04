@@ -18,7 +18,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** I know what he/she tweets
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
  * at the top there is a «sign up» button
 
@@ -30,7 +30,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** I can start using TwiTrek
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * email address must have the right syntax
 * I must supply name, email and password
@@ -44,11 +44,10 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** other users can see how I look
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * picture must be png, jpg or gif
 * picture is automatically resized
-* I can edit the square crop of the picture
 
 ### User Story #4
 
@@ -58,18 +57,19 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** they appear in my feed
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * the followed user recieves an email notification
 
 ### User Story #5
+
 **As a** user
 
 **I can** click on followers
 
 **so** I know who is following me at all times
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * list is ordered reversed chronologically by date when someone started following you
 
@@ -81,17 +81,19 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** it appears in the feed of my followers and on my profile
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * maximum 140 characters
 
 ### User Story #7
 
 **As** a user
+
 **I can** retweet the tweets of another user
+
 **so** my followers also see them in my feed
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * a retweet button is below every tweet
 
@@ -103,7 +105,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** the author knows I like the tweet
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * a star appears beneath every tweet
 
@@ -113,7 +115,7 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 **I can** search through all tweets on words or hashtags
 **so** I know who tweeted about this subject
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * only display search results from tweets not older than one week
 
@@ -125,6 +127,6 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so** only them receive the message
 
-**Acceptance Criteria:**
+### Acceptance Criteria:
 
 * both users must follow each other
