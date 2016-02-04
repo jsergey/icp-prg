@@ -10,6 +10,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 **so that** (reason)
 
+---
+
 ### User Story #1
 
 **As a** non authenticated user (NAU)
@@ -21,6 +23,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 ### Acceptance Criteria:
 
  * at the top there is a «sign up» button
+
+---
 
 ### User Story #2
 
@@ -36,6 +40,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 * I must supply name, email and password
 * username has maximum 15 characters
 
+---
+
 ### User Story #3
 
 **As a** user
@@ -49,6 +55,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 * picture must be png, jpg or gif
 * picture is automatically resized
 
+---
+
 ### User Story #4
 
 **As a** user
@@ -60,6 +68,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 ### Acceptance Criteria:
 
 * the followed user recieves an email notification
+
+---
 
 ### User Story #5
 
@@ -73,6 +83,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * list is ordered reversed chronologically by date when someone started following you
 
+---
+
 ### User Story #6
 
 **As a** user 
@@ -84,6 +96,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 ### Acceptance Criteria:
 
 * maximum 140 characters
+
+---
 
 ### User Story #7
 
@@ -97,6 +111,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * a retweet button is below every tweet
 
+---
+
 ### User Story #8
 
 **As a** user 
@@ -109,6 +125,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 
 * a star appears beneath every tweet
 
+---
+
 ### User Story #9
 
 **As a** NAU and as a user
@@ -118,6 +136,8 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 ### Acceptance Criteria:
 
 * only display search results from tweets not older than one week
+
+---
 
 ### User Story #10
 
