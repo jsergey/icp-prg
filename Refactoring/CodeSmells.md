@@ -100,8 +100,9 @@ For removing unused abstract classes, try Collapse Hierarchy.
 ### Payoff
 * Slimmer code.
 * Easier support.
-* 
+
 ### When to Ignore
+
 * If you are working on a framework, it is eminently reasonable to create functionality not used in the framework itself, as long as the functionality is needed by the frameworks's users.
 * Before deleting elements, make sure that they are not used in unit tests. This happens if tests need a way to get certain internal information from a class or perform special testing-related actions.
 
