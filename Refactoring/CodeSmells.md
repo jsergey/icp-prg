@@ -24,7 +24,7 @@ When a class is wearing too many (functional) hats, think about splitting it up:
 * Refactoring of these classes spares developers from needing to remember a large number of attributes for a class.
 * In many cases, splitting large classes into parts avoids duplication of code and functionality
 
-# Long Methods
+## Long Methods
 
 ### Signs and Symptoms
 
@@ -49,7 +49,7 @@ When a class is wearing too many (functional) hats, think about splitting it up:
 * Refactoring of these classes spares developers from needing to remember a large number of attributes for a class.
 * In many cases, splitting large classes into parts avoids duplication of code and functionality.
 
-# Duplicate Code
+## Duplicate Code
 
 ### Signs and Symptoms
 Two code fragments look almost identical.
@@ -83,7 +83,7 @@ If the same code is found in two or more methods in the same class: use Extract 
 ### When to Ignore
 In very rare cases, merging two identical fragments of code can make the code less intuitive and obvious.
 
-# Speculative Generality
+## Speculative Generality
 
 ### Signs and Symptoms
 There is an unused class, method, field or parameter.
@@ -106,7 +106,7 @@ For removing unused abstract classes, try Collapse Hierarchy.
 * If you are working on a framework, it is eminently reasonable to create functionality not used in the framework itself, as long as the functionality is needed by the frameworks's users.
 * Before deleting elements, make sure that they are not used in unit tests. This happens if tests need a way to get certain internal information from a class or perform special testing-related actions.
 
-# Comments
+## Comments
 
 ### Signs and Symptoms
 A method is filled with explanatory comments.
@@ -133,7 +133,7 @@ Comments can sometimes be useful:
 * When explaining complex algorithms (when all other methods for simplifying the algorithm have been tried and come up short).
 
 
-# Nested conditionals
+## Nested conditionals
 
 ### Signs and Symptoms
 You have a group of nested conditionals and it is hard to determine the normal flow of code execution.
@@ -163,7 +163,7 @@ You have a group of nested conditionals and it is hard to determine the normal f
 * Introduce Assertion
 	* Problem: For a portion of code to work correctly, certain conditions or values must be true.
 	* Solution: Replace these assumptions with specific assertion checks.
-Payoff
+### Payoff
 * By extracting conditional code to clearly named methods, you make life easier for the person who will be maintaining the code later (such as you, two months from now!).
 * By consolidating all operators, you can now isolate this complex expression in a new method with a name that explains the conditional's purpose.
- * Eliminates duplicate control flow code. Combining multiple conditionals that have the same "destination" helps to show that you are doing only one complicated check leading to one action.
+* Eliminates duplicate control flow code. Combining multiple conditionals that have the same "destination" helps to show that you are doing only one complicated check leading to one action.
