@@ -163,6 +163,7 @@ You have a group of nested conditionals and it is hard to determine the normal f
 * Introduce Assertion
 	* Problem: For a portion of code to work correctly, certain conditions or values must be true.
 	* Solution: Replace these assumptions with specific assertion checks.
+
 ### Payoff
 * By extracting conditional code to clearly named methods, you make life easier for the person who will be maintaining the code later (such as you, two months from now!).
 * By consolidating all operators, you can now isolate this complex expression in a new method with a name that explains the conditional's purpose.
