@@ -1,8 +1,6 @@
 package ru.scrumtrek.trainings.icpprg.badcode;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.ResourceBundle;
+import java.util.*;
 
 public class NestedConditionsAndDuplicateCode {
 
@@ -39,6 +37,43 @@ public class NestedConditionsAndDuplicateCode {
 
         return toReturn;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

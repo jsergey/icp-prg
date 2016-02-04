@@ -1,8 +1,7 @@
 package ru.scrumtrek.trainings.icpprg.badcode;
 
 import java.awt.font.ShapeGraphicAttribute;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class LongMethod {
 
@@ -76,7 +75,50 @@ public class LongMethod {
         }
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     //----------------------------------------------------------------#
+
+
 
     private List<RangeBulletItem> bulletItemsWip;
     private List<AbstractInventoryItem> inventoryItemsSortedByValue;
