@@ -130,7 +130,9 @@ Specific way to describe pieces of functionality from a user's point of view. Th
 ### User Story #9
 
 **As a** NAU and as a user
+
 **I can** search through all tweets on words or hashtags
+
 **so** I know who tweeted about this subject
 
 ### Acceptance Criteria:
