@@ -16,6 +16,8 @@
 
         <jbehave.version>3.9</jbehave.version>
         <jbehave.site.version>3.1.1</jbehave.site.version>
+
+        <cucumber.version>1.1.5</cucumber.version>
     </properties>
 
     <build>
@@ -103,6 +105,21 @@
             <type>zip</type>
             <scope>test</scope>
         </dependency>
+
+        <!-- Cucumber -->
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>${cucumber.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>${cucumber.version}</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
+
 
 </project>
