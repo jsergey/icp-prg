@@ -2,6 +2,9 @@ Java BDD Frameworks:
  * [JBehave](http://jbehave.org)
  * [Cucumber](https://cucumber.io)
 
+Ruby BDD Frameworks:
+ * [RSpec](http://rspec.info)
+
 C++ BDD Frameworks:
  * [igloo](http://igloo-testing.org)
 
