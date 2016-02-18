@@ -7,12 +7,8 @@ C++ BDD Frameworks:
 
 Links
 
-http://behaviour-driven.org/
-
-http://en.wikipedia.org/wiki/Behavior_Driven_Development
-
-http://dannorth.net/introducing-bdd
-
-http://dannorth.net/whats-in-a-story/
-
-http://www.ibm.com/developerworks/java/library/j-cq09187/index.html
+* http://behaviour-driven.org/
+* http://en.wikipedia.org/wiki/Behavior_Driven_Development
+* http://dannorth.net/introducing-bdd
+* http://dannorth.net/whats-in-a-story/
+* http://www.ibm.com/developerworks/java/library/j-cq09187/index.html
